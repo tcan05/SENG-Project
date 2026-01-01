@@ -1,7 +1,7 @@
 # SENG-Project
 
-# Required Libraries
-This part will be updated as the project progresses. But here are the absolute ones.
+# Requirements
+This part will be updated as the project progresses. But here are the absolute libraries.
 
 - PyQt6
 - openai
@@ -11,6 +11,8 @@ To install the packages:
 pip install PyQt6
 pip install openai
 ```
+
+This project also requires [LM Studio](https://lmstudio.ai/) since it's where the LMs are stored.
 
 ## Contributors
 
