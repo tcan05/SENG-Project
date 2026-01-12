@@ -35,7 +35,7 @@ git clone https://github.com/tcan05/SENG-Project.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd Project
+cd SENG-Project/Project
 ```
 3. Run the application:
 ```bash
