@@ -31,7 +31,7 @@ pip install PyQt6 openai
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tcan05/Project.git
+git clone https://github.com/tcan05/SENG-Project.git
 ```
 2. Navigate to the project directory:
 ```bash
