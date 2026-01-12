@@ -41,7 +41,7 @@ cd Project
 ```bash
 python main.py
 ```
-Make sure LM Studio is running and a model is loaded before starting the application.
+> Make sure LM Studio is running and a model is loaded before starting the application.
 
 ## Contributors
 
