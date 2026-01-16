@@ -45,12 +45,12 @@ python main.py
 
 ## How To Use
 
-1. Start LM Studio and load a local LLM model
-2. Launch the application
-3. Select a transformation type
-4. Enter text into the input box
-5. Click "Run"
-6. Copy or save the output
+1. Start LM Studio and load a local LLM model.
+2. Launch the application.
+3. Select a mode.
+4. Enter text into the input box.
+5. Click "Run".
+6. Copy or save the output.
 
 ## Screenshots
 
@@ -104,9 +104,9 @@ SENG-Project/
 
 ## Known Limitations
 
-- Requires LM Studio to be running locally
-- No cloud-based model support
-- Performance depends on local hardware
+- Requires LM Studio to be running locally.
+- No cloud-based model support.
+- Performance depends on local hardware.
 
 ## Contributors
 
