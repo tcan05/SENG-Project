@@ -43,6 +43,61 @@ python main.py
 ```
 > Make sure LM Studio is running and a model is loaded before starting the application.
 
+## How To Use
+
+1. Start LM Studio and load a local LLM model
+2. Launch the application
+3. Select a transformation type
+4. Enter text into the input box
+5. Click "Run"
+6. Copy or save the output
+
+## Architecture
+
+SENG-Project/
+│
+├── Project/
+│   ├── main.py
+│   │
+│   ├── UI/
+│   │   ├── main_window.py
+│   │   └── chatbot_ui.py
+│   │
+│   ├── Core/
+│   │   ├── generator.py
+│   │   ├── transformer.py
+│   │   └── model_manager.py
+│   │
+│   ├── Services/
+│   │   ├── lm_studio_client.py
+│   │   ├── clipboard_service.py
+│   │   └── file_service.py
+│   │
+│   ├── Session/
+│   │   └── history.py
+│   │
+│   ├── Utils/
+│   │   └── validators.py
+│   │
+│   ├── Config/
+│   │   ├── settings.json
+│   │   └── settings.py
+│   │
+│   └── Assets/
+│       └── Screenshots/
+│           ├── main_ui.png
+│           ├── example_generation.png
+│           └── settings.png
+│
+├── README.md
+└── LICENSE
+
+## Known Limitations
+
+- Requires LM Studio to be running locally
+- No cloud-based model support
+- Performance depends on local hardware
+
 ## Contributors
 
 - Team Leader: Tunay Can (UI)
@@ -51,3 +106,7 @@ python main.py
 - Alim Barış Sevindik (Core)
 - Yuşa Alperen Turak (Services)
 - Berkay Avcıoğlu (Services)
+
+## License
+
+This project is licensed under the MIT License.
