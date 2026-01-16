@@ -54,6 +54,14 @@ python main.py
 
 ## Architecture
 
+## Screenshots
+
+### Main Interface
+![Main Interface](Project/Assets/Screenshots/MainInterface.png)
+
+### Text Generation Example
+![Text Generation](Project/Assets/Screenshots/ExampleOutput.png)
+
 ```text
 SENG-Project/
 │
