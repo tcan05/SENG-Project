@@ -54,6 +54,7 @@ python main.py
 
 ## Architecture
 
+```text
 SENG-Project/
 │
 ├── Project/
@@ -91,6 +92,7 @@ SENG-Project/
 │
 ├── README.md
 └── LICENSE
+```
 
 ## Known Limitations
 
