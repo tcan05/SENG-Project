@@ -52,8 +52,6 @@ python main.py
 5. Click "Run"
 6. Copy or save the output
 
-## Architecture
-
 ## Screenshots
 
 ### Main Interface
@@ -61,6 +59,8 @@ python main.py
 
 ### Text Generation Example
 ![Text Generation](Project/Assets/Screenshots/ExampleOutput.png)
+
+## Architecture
 
 ```text
 SENG-Project/
