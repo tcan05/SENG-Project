@@ -105,7 +105,9 @@ SENG-Project/
 │       └── Screenshots/
 │           ├── MainInterface.png
 │           ├── ExampleOutput.png
-│           └── settings.png
+│           ├── ChatbotOutput.png
+│           ├── TextTransformationOutput.png
+│           └── PartialTextOutput.png
 │
 ├── README.md
 └── LICENSE
