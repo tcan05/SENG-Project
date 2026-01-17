@@ -94,8 +94,8 @@ SENG-Project/
 │   │
 │   └── Assets/
 │       └── Screenshots/
-│           ├── main_ui.png
-│           ├── example_generation.png
+│           ├── MainInterface.png
+│           ├── ExampleOutput.png
 │           └── settings.png
 │
 ├── README.md
