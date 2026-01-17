@@ -60,6 +60,15 @@ python main.py
 ### Text Generation Example
 ![Text Generation](Project/Assets/Screenshots/ExampleOutput.png)
 
+### Chatbot Example
+![Chatbot](Project/Assets/Screenshots/ChatbotOutput.png)
+
+### Text Transformation Example
+![Text Transformation](Project/Assets/Screenshots/TextTransformationOutput.png)
+
+### Completing Partial Text Example
+![Completing Partial Text](Project/Assets/Screenshots/PartialTextOutput.png)
+
 ## Architecture
 
 ```text
